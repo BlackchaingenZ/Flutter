@@ -1,4 +1,4 @@
-# Flutter
+# Tiktok Interface with Flutter
 
 A new Flutter project.
 
